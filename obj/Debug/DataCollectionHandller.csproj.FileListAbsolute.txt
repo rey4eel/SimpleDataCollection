@@ -1,0 +1,10 @@
+C:\Users\vardan.saakian\source\repos\DataCollectionHandller\obj\Debug\DataCollectionHandller.csprojAssemblyReference.cache
+C:\Users\vardan.saakian\source\repos\DataCollectionHandller\obj\Debug\DataCollectionHandller.csproj.CoreCompileInputs.cache
+C:\Users\vardan.saakian\source\repos\DataCollectionHandller\bin\Debug\DataCollectionHandller.exe.config
+C:\Users\vardan.saakian\source\repos\DataCollectionHandller\bin\Debug\DataCollectionHandller.exe
+C:\Users\vardan.saakian\source\repos\DataCollectionHandller\bin\Debug\DataCollectionHandller.pdb
+C:\Users\vardan.saakian\source\repos\DataCollectionHandller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vardan.saakian\source\repos\DataCollectionHandller\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vardan.saakian\source\repos\DataCollectionHandller\obj\Debug\DataCollectionHandller.csproj.CopyComplete
+C:\Users\vardan.saakian\source\repos\DataCollectionHandller\obj\Debug\DataCollectionHandller.exe
+C:\Users\vardan.saakian\source\repos\DataCollectionHandller\obj\Debug\DataCollectionHandller.pdb

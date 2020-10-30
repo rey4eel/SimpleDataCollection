@@ -1,0 +1,47 @@
+{
+	"Setting": {
+		"BasicSetting": {
+			"DefaultMachineName": "",
+			"LogData": "true",
+			"AOIGUIdata": {
+				"ExportPathData": [
+					"C:/KohYoung/AOI/AOIGUISetup.ini",
+					"C:/KohYoung/AOI/AOIMachineSetup.ini",
+					"C:/KohYoung/AOI/SST.xml"
+				],
+				"RegistryDataPath": [
+					"HKEY_LOCAL_MACHINE/SOFTWARE/Kohyoung/KSMART",
+					"HKEY_LOCAL_MACHINE/SOFTWARE/Kohyoung/KSA"
+				]
+			},
+			"SPIGUIdata": {
+				"ExportPathData": [
+					"C:/Kohyoung/KY-3030/SST.xml",
+					"C:/Kohyoung/KY-3030/KY3030.ini"
+				],
+				"RegistryDataPath": [
+					"HKEY_LOCAL_MACHINE/SOFTWARE/Kohyoung/KSMART"
+				]
+			},
+			"ReviewGUIdata": {
+				"ExportPathData": [
+					"C:/Kohyoung/KY-3030/SST.xml",
+					"C:/Kohyoung/KY-3030/KY3030.ini"
+				],
+				"RegistryDataPath": [
+					"HKEY_LOCAL_MACHINE/SOFTWARE/Kohyoung/KSMART"
+				]
+			},
+			"APIGUIdata": {
+				"ExportPathData": [
+					"C:/KohYoung/AOI/AOIGUISetup.ini",
+					"C:/KohYoung/AOI/AOIMachineSetup.ini",
+					"C:/KohYoung/AOI/SST.xml"
+				],
+				"RegistryDataPath": [
+					"HKEY_LOCAL_MACHINE/SOFTWARE/Kohyoung/KSMART"
+				]
+			}
+		}
+	}
+}
